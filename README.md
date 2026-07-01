@@ -1,4 +1,4 @@
-# 💬 Tokopedia Product Sentiment Analysis: Indonesian Product Reviews
+# Tokopedia Product Sentiment Analysis: Indonesian Product Reviews
 
 Klasifikasi sentimen **3 kelas** (positif, netral, negatif) pada ulasan produk e-commerce berbahasa Indonesia, menggunakan **TF-IDF + Complement Naive Bayes**. Inti project: **preprocessing teks bahasa Indonesia yang disesuaikan dengan karakter ulasan e-commerce** (normalisasi slang/typo dan penjagaan kata negasi).
 
